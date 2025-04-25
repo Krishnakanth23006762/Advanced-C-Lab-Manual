@@ -283,7 +283,8 @@ void square(){
 
 ### Output:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/beae5fa9-4d3e-45ea-8d0e-a75816db81a1)
+
 
 
 ### Result:
